@@ -1,0 +1,21 @@
+@media (min-width: 600px){
+.container {
+    width: 40%;
+}
+}
+
+head {
+
+    background-color: white;
+    
+}
+
+body {
+   
+    
+    background-position: center;
+    padding-top: 10%;
+    background-color: lightblue;
+}
+
+
